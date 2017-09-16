@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df6fa418-ca47-42ab-879e-3a6e7fc5349b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ChromeDemo.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodingChallenge/CodingChallenege_IPadPageTesting.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,17 +16,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChromeDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChromeDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodingChallenge/ChromeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CodingChallenege_IPadPageTesting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CodingChallenege_IPadPageTesting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodingChallenge/CodingChallenege_IPadPageTesting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -532,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505597164885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just a another Refractor">
+      <created>1505597274889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505597274889</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -606,7 +615,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just a Refractor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just a Refractor" />
+    <MESSAGE value="Just a another Refractor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just a another Refractor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -845,19 +855,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodingChallenge/ChromeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingChallenge/CodingChallenege_IPadPageTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingChallenge/ChromeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
